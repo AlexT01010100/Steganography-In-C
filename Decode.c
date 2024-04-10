@@ -1,4 +1,5 @@
 /* decryption of sizes */
+//commit 
 void size_decryption(FILE *pf1, int *size_txt)
 {
 	int file_buff = 0, i;
